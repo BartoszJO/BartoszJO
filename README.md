@@ -1,13 +1,13 @@
-# 👋 Cześć! Jestem Bartosz
+# 👋 Hi! I'm Bartosz
 
-🎓 Student informatyki algorytmicznej na Politechnice Wrocławskiej
-💻 Interesuję się algorytmami, tworzeniem gier i aplikacji webowych oraz wszystkim co ciekawe
-🌱 Obecnie uczę się Pythona i C++ 
-🐧 Używam Linuxa (Ubuntu)
+🎓 21 year old computer science student at Wrocław University of Science and Technology  
+💻 I'm interested in algorithms, game development, web applications, and everything that's exciting  
+🌱 Currently learning Python and C++  
+🐧 I use Linux (Ubuntu)
 
 ---
 
-## 🔧 Technologie, których używam:
+## 🔧 Technologies I use:
 
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?logo=c%2b%2b)
@@ -20,19 +20,13 @@
 
 ---
 
-## 📌 Wybrane projekty:
+## 📌 Selected projects:
 
 -TBA
 
 ---
 
-## 📈 Statystyki GitHub:
+## 📫 Contact
 
-![BartoszJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartoszJO&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Kontakt
-
-- 📧 bartoszjolszewski@gmail.com
+- 📧 bartoszjolszewski@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bartosz-olszewski-3992b5355/)
